@@ -56,7 +56,7 @@ I'm currently diving deep into:
 ## 📫 How to Reach Me
 <!-- Add your preferred contact methods -->
 - GitHub: [@Lakshani09DL](https://github.com/Lakshani09DL)
-<!-- - Email: subhagyal2002@gmail.com -->
+- Email: subhagyal2002@gmail.com 
 
 
 ## ⚡ Fun Fact
