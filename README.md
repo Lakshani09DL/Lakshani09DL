@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lakshani
+# 👋 Hi, I'm Subhagya Lakshani
 
 ## About Me
 - 🎓 Undergraduate at University of Moratuwa, Computer Science and Engineering
